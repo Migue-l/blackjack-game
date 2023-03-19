@@ -1,0 +1,11 @@
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\bin\Debug\MLblackjack.exe.config
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\bin\Debug\MLblackjack.exe
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\bin\Debug\MLblackjack.pdb
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\obj\Debug\MLblackjack.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\obj\Debug\MLblackjack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\obj\Debug\MLblackjack.Form1.resources
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\obj\Debug\MLblackjack.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\obj\Debug\MLblackjack.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\obj\Debug\MLblackjack.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\obj\Debug\MLblackjack.exe
+C:\Users\Miguel\Desktop\Black Jack\MLblackjack\obj\Debug\MLblackjack.pdb
